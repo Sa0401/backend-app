@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "6a2a46f40008d74287299da9",
+    "name": "Alice Smith",
+    "phone": "9876543210",
+    "email": "alice@example.com",
+    "address": "123 Pink Street",
+    "createdAt": "2026-06-11T05:26:12.067Z",
+    "updatedAt": "2026-06-11T05:26:12.067Z"
+  }
+]

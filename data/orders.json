@@ -1,0 +1,247 @@
+[
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 1200,
+        "measurementUsed": "6a2a46fc0004826d6926df44",
+        "notes": "Blue Linen fabric"
+      }
+    ],
+    "totalAmount": 1200,
+    "advanceAmount": 500,
+    "deliveryDate": "2026-06-20T00:00:00.000Z",
+    "notes": "Stitch by next Saturday",
+    "updatedAt": "2026-06-11T05:27:02.651Z",
+    "balanceAmount": 700,
+    "paymentStatus": "Partially Paid",
+    "_id": "6a2a4726000730c65e29ad49"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 0
+      }
+    ],
+    "totalAmount": 521,
+    "advanceAmount": 100,
+    "deliveryDate": "2026-06-20",
+    "updatedAt": "2026-06-11T10:42:08.685Z",
+    "balanceAmount": 421,
+    "paymentStatus": "Partially Paid",
+    "_id": "6a2a9100000be72e08953533"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 0,
+        "measurementUsed": "6a2a46fc0004826d6926df44"
+      }
+    ],
+    "totalAmount": 1000,
+    "advanceAmount": 100,
+    "deliveryDate": "2026-06-19",
+    "updatedAt": "2026-06-11T10:45:54.065Z",
+    "balanceAmount": 900,
+    "paymentStatus": "Partially Paid",
+    "_id": "6a2a91e2000685a5df2f9c1a"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 1,
+        "measurementUsed": "6a2a46fc0004826d6926df44"
+      }
+    ],
+    "totalAmount": 2211,
+    "advanceAmount": 55,
+    "deliveryDate": "2026-06-26",
+    "updatedAt": "2026-06-11T11:53:37.925Z",
+    "balanceAmount": 2156,
+    "paymentStatus": "Partially Paid",
+    "_id": "6a2aa1c100025c8539fdd5d6"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 0
+      }
+    ],
+    "totalAmount": 2451,
+    "advanceAmount": 11,
+    "deliveryDate": "2026-06-19",
+    "updatedAt": "2026-06-11T11:56:39.495Z",
+    "balanceAmount": 2440,
+    "paymentStatus": "Partially Paid",
+    "_id": "6a2aa27700004abc851b9a95"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 0,
+        "measurementUsed": "6a2a46fc0004826d6926df44"
+      }
+    ],
+    "totalAmount": 1000,
+    "advanceAmount": 1000,
+    "deliveryDate": "2026-06-13",
+    "notes": "dcdwc",
+    "updatedAt": "2026-06-11T12:06:25.549Z",
+    "balanceAmount": 0,
+    "paymentStatus": "Fully Paid",
+    "_id": "6a2aa4c1000c75c97cc7e396"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 1000,
+        "measurementUsed": "6a2a46fc0004826d6926df44"
+      }
+    ],
+    "totalAmount": 1000,
+    "advanceAmount": 100,
+    "deliveryDate": "2026-06-19",
+    "notes": "csasc",
+    "updatedAt": "2026-06-11T12:08:31.512Z",
+    "balanceAmount": 900,
+    "paymentStatus": "Partially Paid",
+    "_id": "6a2aa53f00050d962ad9820e"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 1000,
+        "measurementUsed": "6a2a46fc0004826d6926df44"
+      }
+    ],
+    "totalAmount": 1000,
+    "advanceAmount": 100,
+    "deliveryDate": "2026-06-25",
+    "notes": "ascscsc",
+    "updatedAt": "2026-06-11T12:27:23.496Z",
+    "balanceAmount": 900,
+    "paymentStatus": "Partially Paid",
+    "_id": "6a2aa9ab000baa4ffa29c0af"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 100,
+        "measurementUsed": "6a2a46fc0004826d6926df44"
+      }
+    ],
+    "totalAmount": 100,
+    "advanceAmount": 10,
+    "deliveryDate": "2026-06-13",
+    "updatedAt": "2026-06-11T12:28:25.167Z",
+    "balanceAmount": 90,
+    "paymentStatus": "Partially Paid",
+    "_id": "6a2aa9e90004b01e2044fd99"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 0,
+        "measurementUsed": "6a2a46fc0004826d6926df44"
+      }
+    ],
+    "totalAmount": 999,
+    "advanceAmount": 10,
+    "deliveryDate": "2026-06-19",
+    "updatedAt": "2026-06-11T12:42:24.314Z",
+    "balanceAmount": 989,
+    "paymentStatus": "Partially Paid",
+    "_id": "6a2aad300006f43693dcc18b"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 0,
+        "measurementUsed": "6a2a46fc0004826d6926df44"
+      }
+    ],
+    "totalAmount": 1000,
+    "advanceAmount": 0,
+    "deliveryDate": "2026-06-20",
+    "notes": "few",
+    "updatedAt": "2026-06-11T12:46:01.775Z",
+    "balanceAmount": 1000,
+    "paymentStatus": "Unpaid",
+    "_id": "6a2aae090001e8414758d1ae"
+  },
+  {
+    "_modelName": "Order",
+    "_filename": "orders",
+    "customer": "6a2a46f40008d74287299da9",
+    "items": [
+      {
+        "garmentType": "Shirt",
+        "quantity": 1,
+        "price": 0,
+        "measurementUsed": "6a2a46fc0004826d6926df44"
+      }
+    ],
+    "totalAmount": 1000,
+    "advanceAmount": 10,
+    "deliveryDate": "2026-06-11",
+    "notes": "we",
+    "updatedAt": "2026-06-11T12:51:02.860Z",
+    "balanceAmount": 990,
+    "paymentStatus": "Partially Paid",
+    "_id": "6a2aaf36000fe1b2d1fb8d16"
+  }
+]

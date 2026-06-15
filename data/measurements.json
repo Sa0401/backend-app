@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "6a2a46fc0004826d6926df44",
+    "customer": "6a2a46f40008d74287299da9",
+    "garmentType": "Shirt",
+    "title": "Summer Shirt Fit",
+    "neck": 15.5,
+    "chest": 38,
+    "waist": 32,
+    "shoulder": 17,
+    "sleeveLength": 24,
+    "fullLength": 28,
+    "collar": 16,
+    "notes": "Loose comfort fit",
+    "createdAt": "2026-06-11T05:26:20.837Z",
+    "updatedAt": "2026-06-11T05:26:20.837Z"
+  }
+]
